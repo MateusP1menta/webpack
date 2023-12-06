@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=function(e,t){console.log(e+t)};console.log("testando o webpack"),e(10,20),e(4,2),(new class{create(e){const t=document.createElement("h2");t.innerText=e,document.querySelector("body").appendChild(t)}}).create("Este título é dinâmico")})();
